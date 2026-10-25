@@ -7,5 +7,6 @@ Start with `hello`:
 3. Read the output
 4. Star the repo
 5. Report a bug
+6. Join the community
 
 > Tip: pass `--verbose` for details.
