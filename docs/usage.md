@@ -6,5 +6,6 @@ Start with `hello`:
 2. Run the command
 3. Read the output
 4. Star the repo
+5. Report a bug
 
 > Tip: pass `--verbose` for details.
