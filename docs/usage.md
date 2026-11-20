@@ -1,3 +1,6 @@
+---
+title: "Usage"
+---
 # Usage
 
 Start with `hello`:
@@ -10,3 +13,6 @@ Start with `hello`:
 6. Join the community
 
 > Tip: pass `--verbose` for details.
+
+
+> Edited in Cirth on 2026-11-20 — this line should reach the repo as a pull request, not a direct commit.
